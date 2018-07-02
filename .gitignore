@@ -6,3 +6,6 @@
 .idea
 vagrant*
 vault_password_file
+.cache/
+.ssh/
+retry/
